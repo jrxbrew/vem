@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/maski/vem/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/maski/vem/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/Users/maski/vem/pages/projects.vue",
+    "chunkName": "pages/projects"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/maski/vem/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
